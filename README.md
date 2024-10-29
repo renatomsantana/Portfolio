@@ -1,17 +1,25 @@
 # Olá! Eu sou Renato M. Santana 👋
-Sou um desenvolvedor de back-end especializado nas linguagens Python, Java, PHP e MySQL. E estou sempre em busca de aprender mais!
-## Habilidades
-- Linguagens: JavaScript, Python, Java, AWS
-- Frameworks: React, Node.js, Django
-- Ferramentas: Git, Docker, Visual Studio Code, Eclipse 
+
+- Estudando Ciência da Computação na Estácio de Sá e estou no momento no 6º período.
+- Trabalhando em projetos envolvendo desenvolvimento de sites, tanto no front-end quanto no back-end.
+- Buscando colaborar em projetos open source e expandir meu conhecimento.
+
+## Tecnologias e Ferramentas
+
+- **Linguagens**: JavaScript, Python, Java, PHP
+- **Frameworks**: React, Node.js, Django
+- **Banco de Dados**: MySQL
+- **DevOps**: Docker, AWS
+- **Ferramentas**: Git, GitHub, Visual Studio Code
+
 - ## Interesses
+
 - Desenvolvimento Web
 - Inteligência Artificial
 - Open Source
-- ## Experiências
-- Ainda não tenho experiências profissionais de programação.
-- **Desenvolvedor FullStack** da empresa Rosa Selvagem (2023 - Presente) : Trabalho diretamente com o Shopify usando a linguagem JavaScript e CSS. 
+- Desenvolvimento de Software
+- Gamemaker
+
 - ## Contato
 - [LinkedIn](https://www.linkedin.com/in/renato-m-santana-aa20601b9/)
 - [Email](mailto:renatomsantana@gmail.com)
-- 
