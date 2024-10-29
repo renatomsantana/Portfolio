@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Para Você</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #fbe6f7;
+            text-align: center;
+        }
+        h1 {
+            color: #ff69b4;
+            font-size: 3em;
+            margin-bottom: 20px;
+        }
+        .ascii-art {
+            color: #ff69b4;
+            font-size: 1.2em;
+            white-space: pre; /* Mantém o espaço e formatação original */
+            line-height: 1.2; /* Ajusta o espaçamento entre linhas */
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>te amo meu bem 💞</h1>
+    <div class="ascii-art">
+        <pre>
+    _____   
+   /  ___  \
+ /  /  _  \  \
+  /( /( /(_)\ )\ )\
+ (  \  \ ___ /  /  )
+ (    \ _____ /    )
+ /(               )\
+|  \             /  |
+|    \ _______ /    |
+ \    / \   / \    /
+   \/   | |    \/
+   | | 
+  | |
+  | |
+        </pre>
+    </div>
+</body>
+</html>html
